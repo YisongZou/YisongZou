@@ -1,5 +1,5 @@
-### Hi there 👋 Welcome to Yisong(Eason) Zou's[(Linkedin)](https://www.linkedin.com/in/yisong-eason-zou-152858122/) Github page
-
+### Hi there 👋 Welcome to Yisong(Eason) Zou's Github page
+[Linkedin Page](https://www.linkedin.com/in/yisong-eason-zou-152858122/)
 <!--
 **YisongZou/YisongZou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
